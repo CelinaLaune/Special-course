@@ -1,0 +1,28 @@
+﻿Question number;Eksamenssæt;ChatGPT;Gemini;Perplexity;Claude;Correct answers
+1;"""Maj 2020""";A;B;C;B;B
+2;;C;C;A;A;A
+3;;B;A;B;B;A
+4;;A;A;A;A;A
+5;;D;E;C;C;C
+6;;B;C;B;B;B
+7;;A;A;A;A;A
+8;;E;E;E;E;E
+9;;B;B;B;B;C
+10;;B;B;B;A;B
+11;;B;B;B;D;B
+12;;C;D;C;D;D
+13;;D;A;A;D;A
+14;;D;D;D;D;D
+15;;D;B;D;E;D
+16;;A;A;D;A;A
+17;;A;B;B;B;B
+18;;A;B;A;D;A
+;;;;;;
+Wrong;;8;6;5;7;
+Correct;;10;12;13;11;
+;;;;;;
+Accuracy score;;0,555555556;0,666666667;0,722222222;0,611111111;
+;;;;;;
+;;;;;;
+;;;;;;
+n =;162,0492533;;;;;
